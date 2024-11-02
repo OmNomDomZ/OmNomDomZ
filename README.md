@@ -20,7 +20,7 @@
 <div id="about">
     <h2>👩‍💻 About Me</h2>
     <ul>
-        <li>🎓 I'm 20 years old and a third-year student at <a target="_blank" style="text-decoration: none;" href="[ссылка на университет]">[ваш университет]</a>.</li>
+        <li>🎓 I'm 20 years old and a third-year student at NSU.</li>
         <li>🚀 In my free time, I enjoy exploring new technologies and deepening my skills in Java and Go.</li>
         <li>💌 Feel free to reach out if you'd like to discuss tech, have suggestions, or just want to connect!</li>
     </ul>
