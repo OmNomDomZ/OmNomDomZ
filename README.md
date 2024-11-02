@@ -12,7 +12,8 @@
 - 💌 Feel free to reach out if you'd like to discuss tech, have suggestions, or just want to connect!
 
 ### My stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/vrabetskii?theme=dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vrabetskii?hide=ranking,theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmNomDomZ&layout=compact&theme=tokyonight)](https://github.com/OmNomDomZ)
