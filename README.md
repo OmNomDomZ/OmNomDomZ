@@ -1,7 +1,7 @@
-# Hi there, I'm [Ваше имя]
+# Hi there, I'm Valera
 ### Computer science student
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ваш_username&color=brightgreen)](https://github.com/OmNomDomZ)
+[![Profile Views](https://komarev.com/ghpvc/?username=OmNomDomZ&color=brightgreen)](https://github.com/OmNomDomZ)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/omnomdom)
 [![VK](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk)](https://vk.com/omnomdomz)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:v.rabetskii@gmail.com)
@@ -12,6 +12,7 @@
 - 💌 Feel free to reach out if you'd like to discuss tech, have suggestions, or just want to connect!
 
 ### My stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/vrabetskii?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vrabetskii?theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact)](https://github.com/OmNomDomZ)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmNomDomZ&layout=compact&theme=tokyonight)](https://github.com/OmNomDomZ)
