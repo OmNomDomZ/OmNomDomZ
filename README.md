@@ -6,7 +6,7 @@
     <a target="_blank" style="text-decoration: none;" href="https://github.com/OmNomDomZ">
         <img src="https://komarev.com/ghpvc/?username=OmNomDomZ&style=for-the-badge&color=brightgreen" alt="View Count" title="Profile Views">
     </a>
-    <a target="_blank" style="text-decoration: none;" href="https://t.me/omnomdom">
+    <a target="_blank" style="text-decoration: none;" href="https://t.me/vrabetsky">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" alt="Telegram">
     </a>
     <a target="_blank" style="text-decoration: none;" href="https://vk.com/omnomdomz">
